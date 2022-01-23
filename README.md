@@ -4,7 +4,7 @@ An Interactive Resort Booking  System made using PHP, Myadmin, HTML, CSS, Javasc
 
 ## Technologies Used
 - Front End : HTML, CSS, Javascript, Bootstrap, Google Fonts
-- Back End : Flask PHP, Myadmin(database)
+- Back End : PHP, Myadmin(database)
 
 ## Features of the Website
 - Interactive User Interface (UI) 
