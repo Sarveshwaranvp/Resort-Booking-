@@ -1,2 +1,2 @@
 # Resort-Booking-
-IP projecr 
+IP project
