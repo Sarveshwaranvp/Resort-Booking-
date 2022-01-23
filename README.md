@@ -38,12 +38,12 @@ An Interactive Resort Booking  System made using PHP, Myadmin, HTML, CSS, Javasc
 ![14](https://user-images.githubusercontent.com/69857489/150668914-c89e1b78-10e2-486d-a0e2-165f9fc9e377.jpg)
 ![15](https://user-images.githubusercontent.com/69857489/150668919-32bd1226-deb1-4613-ba6c-944e5d53d848.jpg)
  
- ##ContactUs
+ ## ContactUs
  ![16](https://user-images.githubusercontent.com/69857489/150668950-8c41efdf-7d10-46eb-ae16-152ed5cca302.jpg)
 ![17](https://user-images.githubusercontent.com/69857489/150668997-579dd2cd-7e35-412e-8de5-37940593f590.jpg)
 ![18](https://user-images.githubusercontent.com/69857489/150668999-33ab4a95-0d91-413a-9b18-83420aab82bb.jpg)
 
-##TicketConformationPage
+## TicketConformationPage
 ![20](https://user-images.githubusercontent.com/69857489/150669086-58fc4f48-42e4-4625-9f41-98f73096cf36.jpg)
 ![21](https://user-images.githubusercontent.com/69857489/150669091-bfb4c3ad-e4e1-4b6b-8add-8187b04267ff.jpg)
 ![22](https://user-images.githubusercontent.com/69857489/150669093-b8d4db7b-0e43-4ab1-8f1a-718091c1f507.jpg)
